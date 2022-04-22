@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Obialom Onyekachi</h1>
-<h3 align="center">A Software engineer and an instructor specializing on PHP and JaveScript.</h3>
+<h3 align="center">A Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obialomonyekachi&label=Profile%20views&color=0e75b6&style=flat" alt="obialomonyekachi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@obinary3" target="blank"><img src="https://img.shields.io/twitter/follow/@obinary3?logo=twitter&style=for-the-badge" alt="@obinary3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **uren (e-commerce)**
 
@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@obinary3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@obinary3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/obinna onyekachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obinna onyekachi" height="30" width="40" /></a>
 <a href="https://fb.com/ònye kachi jnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ònye kachi jnr" height="30" width="40" /></a>
 <a href="https://instagram.com/am_obialom_onyekachi_jnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am_obialom_onyekachi_jnr" height="30" width="40" /></a>
